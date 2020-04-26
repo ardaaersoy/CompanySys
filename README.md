@@ -4,4 +4,4 @@ Written using Java and named as CompanySys. It is a Company Database System whic
 
 <hr>
 
-<img src="screenshots/home.png" width="400" height="400">
+<img src="screenshots/home.jpg" width="400" height="400">
